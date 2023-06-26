@@ -1,4 +1,4 @@
-#gowave
+# gowave
 
 Gowave is an innovative educational platform that combines gamified learning, interactive quizzes, and competitions, all powered by Hedera Token (HBAR).
 

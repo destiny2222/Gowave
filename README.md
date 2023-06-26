@@ -1,3 +1,5 @@
+Gowave
+
 Gowave is an innovative educational platform that combines gamified learning, interactive quizzes, and competitions, all powered by Hedera Token (HBAR).
 
 Explore diverse interactive quizzes across subjects, boost knowledge retention, and create personalized competitions. Top performers earn HBAR tokens for their expertise.
